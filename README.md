@@ -5,8 +5,8 @@ The Server Name, Process Status, Process Name, Display Name, Database Name, Reco
 
 ## Prerequisites
 
-Windows OS - Powershell
-SqlServer Module need to be installed if not than type below command in powershell prompt.
+Windows OS - Powershell<br>
+SqlServer Module need to be installed if not than type below command in powershell prompt.<br>
 Install-Module -Name SqlServer
 
 ## Note
