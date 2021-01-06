@@ -25,7 +25,7 @@ Last Differential Backup Size	- Specifically last Differential backup size<br>
 Last Log Backup Start Date - Specifically last Log backup Start Date & Time<br>
 Last Log Backup End Date - Specifically last Log backup End Date & Time<br>
 Last Log Backup Size - Specifically last Log backup size<br>
-Days Since Last Backup - Number of days since last backup taken<br>
+Days Since Last Backup - Number of days since last backup taken. If grether threshold then marked as RED otherwise GREEN<br>
 
 ## Use
 
