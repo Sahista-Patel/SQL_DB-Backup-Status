@@ -11,21 +11,21 @@ Install-Module -Name SqlServer
 
 ## Note
   
-Server Name - Name of the target Machine
-Instance Name - SQL Instance
-DB Name	- Database Name
-Recovery Model - Type of Recovery Model like SIMPLE or FULL
-Last Backup - Last Backup Date & Time
-Last Full Backup Start Date	- Specifically last Full backup Start Date & Time
-Last Full Backup End Date	- Specifically last Full backup End Date & Time
-Last Full Backup Size	- Specifically last Full backup size
-Last Differential Backup Start Date	- Specifically last Differential backup Start Date & Time
-Last Differential Backup End Date	- Specifically last Differential backup End Date & Time
-Last Differential Backup Size	- Specifically last Differential backup size
-Last Log Backup Start Date - Specifically last Log backup Start Date & Time
-Last Log Backup End Date - Specifically last Log backup End Date & Time
-Last Log Backup Size - Specifically last Log backup size
-Days Since Last Backup - Number of days since last backup taken
+Server Name - Name of the target Machine<br>
+Instance Name - SQL Instance<br>
+DB Name	- Database Name<br>
+Recovery Model - Type of Recovery Model like SIMPLE or FULL<br>
+Last Backup - Last Backup Date & Time<br>
+Last Full Backup Start Date	- Specifically last Full backup Start Date & Time<br>
+Last Full Backup End Date	- Specifically last Full backup End Date & Time<br>
+Last Full Backup Size	- Specifically last Full backup size<br>
+Last Differential Backup Start Date	- Specifically last Differential backup Start Date & Time<br>
+Last Differential Backup End Date	- Specifically last Differential backup End Date & Time<br>
+Last Differential Backup Size	- Specifically last Differential backup size<br>
+Last Log Backup Start Date - Specifically last Log backup Start Date & Time<br>
+Last Log Backup End Date - Specifically last Log backup End Date & Time<br>
+Last Log Backup Size - Specifically last Log backup size<br>
+Days Since Last Backup - Number of days since last backup taken<br>
 
 ## Use
 
